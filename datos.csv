@@ -1,0 +1,51 @@
+﻿Sucursal,Producto,Categoria,Precio,Stock,Stock_Minimo
+San Salvador,Cuaderno universitario,Librería,2.5,53,15
+San Salvador,Set de Bolígrafos Gel,Librería,4.75,51,12
+San Salvador,Resma de papel carta,Oficina,6.25,17,15
+San Salvador,Memoria USB 32GB,Tecnología,9.5,7,15
+San Salvador,Mouse inalámbrico,Tecnología,12.0,9,10
+San Salvador,Botella reutilizable,Hogar,7.25,6,12
+San Salvador,Organizador de escritorio,Oficina,5.9,36,10
+San Salvador,Audífonos básicos,Tecnología,15.75,8,10
+San Salvador,Lámpara LED de escritorio,Hogar,18.5,31,8
+San Salvador,Mochila escolar,Librería,24.0,39,10
+Santa Ana,Cuaderno universitario,Librería,2.55,44,18
+Santa Ana,Set de Bolígrafos Gel,Librería,4.84,17,10
+Santa Ana,Resma de papel carta,Oficina,6.38,7,8
+Santa Ana,Memoria USB 32GB,Tecnología,9.69,14,8
+Santa Ana,Mouse inalámbrico,Tecnología,12.24,51,12
+Santa Ana,Botella reutilizable,Hogar,7.4,33,15
+Santa Ana,Organizador de escritorio,Oficina,6.02,21,10
+Santa Ana,Audífonos básicos,Tecnología,16.07,53,15
+Santa Ana,Lámpara LED de escritorio,Hogar,18.87,49,8
+Santa Ana,Mochila escolar,Librería,24.48,24,10
+San Miguel,Cuaderno universitario,Librería,2.6,9,18
+San Miguel,Set de Bolígrafos Gel,Librería,4.94,41,8
+San Miguel,Resma de papel carta,Oficina,6.5,36,10
+San Miguel,Memoria USB 32GB,Tecnología,9.88,33,10
+San Miguel,Mouse inalámbrico,Tecnología,12.48,33,12
+San Miguel,Botella reutilizable,Hogar,7.54,14,12
+San Miguel,Organizador de escritorio,Oficina,6.14,40,18
+San Miguel,Audífonos básicos,Tecnología,16.38,12,8
+San Miguel,Lámpara LED de escritorio,Hogar,19.24,6,12
+San Miguel,Mochila escolar,Librería,24.96,10,10
+La Libertad,Cuaderno universitario,Librería,2.65,47,8
+La Libertad,Set de Bolígrafos Gel,Librería,5.04,29,10
+La Libertad,Resma de papel carta,Oficina,6.62,4,18
+La Libertad,Memoria USB 32GB,Tecnología,10.07,50,15
+La Libertad,Mouse inalámbrico,Tecnología,12.72,38,18
+La Libertad,Botella reutilizable,Hogar,7.69,29,18
+La Libertad,Organizador de escritorio,Oficina,6.25,12,10
+La Libertad,Audífonos básicos,Tecnología,16.7,29,15
+La Libertad,Lámpara LED de escritorio,Hogar,19.61,17,10
+La Libertad,Mochila escolar,Librería,25.44,22,15
+Sonsonate,Cuaderno universitario,Librería,2.7,26,15
+Sonsonate,Set de Bolígrafos Gel,Librería,5.13,30,15
+Sonsonate,Resma de papel carta,Oficina,6.75,32,10
+Sonsonate,Memoria USB 32GB,Tecnología,10.26,17,8
+Sonsonate,Mouse inalámbrico,Tecnología,12.96,5,18
+Sonsonate,Botella reutilizable,Hogar,7.83,16,8
+Sonsonate,Organizador de escritorio,Oficina,6.37,50,18
+Sonsonate,Audífonos básicos,Tecnología,17.01,39,10
+Sonsonate,Lámpara LED de escritorio,Hogar,19.98,26,10
+Sonsonate,Mochila escolar,Librería,25.92,7,8
